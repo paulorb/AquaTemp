@@ -1,0 +1,2 @@
+# AquaTemp
+Peltier controller hardware
