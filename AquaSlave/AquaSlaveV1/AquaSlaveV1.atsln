@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AquaSlaveV1", "AquaSlaveV1\AquaSlaveV1.cproj", "{08F9B828-E80C-47F3-B6F0-AC80FDC49EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F9B828-E80C-47F3-B6F0-AC80FDC49EBF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{08F9B828-E80C-47F3-B6F0-AC80FDC49EBF}.Debug|AVR.Build.0 = Debug|AVR
+		{08F9B828-E80C-47F3-B6F0-AC80FDC49EBF}.Release|AVR.ActiveCfg = Release|AVR
+		{08F9B828-E80C-47F3-B6F0-AC80FDC49EBF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
